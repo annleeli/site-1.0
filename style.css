@@ -17,6 +17,9 @@
 body {
 	font-family: "Comic Sans MS", sans-serif;
 	background-image: url("images/rainbow.gif");
+
+.resume {
+	background-color: black;
 }
 
 main {
