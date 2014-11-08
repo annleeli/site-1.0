@@ -14,13 +14,17 @@
   text-decoration: none;
 }
 
+#resume {
+	background-color: black;
+	background-image: none;
+	color: white;
+}
+
+
 body {
 	font-family: "Comic Sans MS", sans-serif;
 	background-image: url("images/rainbow.gif");
 
-.resume {
-	background-color: black;
-}
 
 main {
   padding: 0.5em;
